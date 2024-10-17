@@ -27,7 +27,10 @@
 <p>  There are companies that give you services free of charge (Google first and foremost) that in return use your data. Google gives you a long catalogue to manage the usage of your data (Hier noch link einfügen) and is watched by many NPOs/NGOs etc.. Unless you are implying bad intentions, which most of us do, you get free services for data.</p>
 <p>  On the other hand, there are companies like Proton that charge a price but promise great data security. Most of these companies are small and we're implying good intentions. Still, paying money doesn't free them from being/becoming bad actors or still sell, save or copy your data. You still need to trust the company, and i'm not sure it they're trustable. They need a large sum of money to operate, too, after all.</p>
 
+<h2>Solutions</h2>
 <h3>Smartphone</h3>
-<p>Choise of OS: The smartphones of today really don't allow for much variance. There are 2 main systems that are worth the hassle: Android and iOS. I will rule out other linux-based OSes because of rule 1 and 2.</p>
+<p>Like with the PCs down the line, the question of smartphones is twofold: What OS is used and what apps on that OS. The OS is the most integral part, as it is <b>THE</b> one point of failure of every hardware: Its nice that you use private data apps if the one handling every datastream, every input and output is totally controlled by a big tech company.</p>
+<p><b>Choise of OS</b>: The smartphones of today really don't allow for much variance. There are 2 main systems that are worth the hassle: Android and iOS. I will rule out other linux-based OSes because of rule 1 and 2. So in the end, we're between a rock and a hard place!</p>
+<p><i>Android:</i> Android is controlled by Google and its "Play Services". Most Android smartphones also use Google Appls like GBoard, Calendar, Telephone, Messages. None of these apps are sure NOT to leak information to Google. The Play services are integral to the usage of Android, they handle the apps (Play Store) and many Android apps outright depend on them.</p>
 
 
