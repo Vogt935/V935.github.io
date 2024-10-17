@@ -34,3 +34,15 @@
 <p><i>Android:</i> Android is controlled by Google and its "Play Services". Most Android smartphones also use Google Appls like GBoard, Calendar, Telephone, Messages. None of these apps are sure NOT to leak information to Google. The Play services are integral to the usage of Android, they handle the apps (Play Store) and many Android apps outright depend on them.</p>
 
 
+
+
+<h1>Conclusion</h1>
+<p>Right now, you have three choises:</p>
+<p><i>1. Cheap and leaky:</i> Use of Windows, Android, MS Serivces, Google Services.</p>
+<p>OneDrive is the cheapest Cloudstorage option (around 40€/year for 1TB). Android smartphones are cheap and work good. Google Photos is great for photo backup.</p>
+<p><i>2. Good beliefs</i><p> Useage of Google Services only.</p>
+<p>Cutting out the Redmond Giant and only use Google Services gives you a sort of "one sure leak"-style of data security. Google Cloud became pricey (Germany: 100GB 20€/Year, 2TB 100€/Year).
+<p><i>Pricey but less leaky:</i> The Apple Eco System</p>
+<p>Apple tried to paint itself a privacy respecting company in the last few years. Their iCloud+ services feature some privacy-enhancing services like iCloud Private Relay, hide e-mail-adress. But Apple hardware is pricey and mostly a bit backwards (60Hz display, hello!). </p>
+<p><i>The Redmond option</i></p>
+<p>Microsofts grip on the desktop computer</p>
