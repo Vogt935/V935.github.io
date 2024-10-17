@@ -43,6 +43,6 @@
 <p><i>2. Good beliefs</i><p> Useage of Google Services only.</p>
 <p>Cutting out the Redmond Giant and only use Google Services gives you a sort of "one sure leak"-style of data security. Google Cloud became pricey (Germany: 100GB 20€/Year, 2TB 100€/Year).
 <p><i>Pricey but less leaky:</i> The Apple Eco System</p>
-<p>Apple tried to paint itself a privacy respecting company in the last few years. Their iCloud+ services feature some privacy-enhancing services like iCloud Private Relay, hide e-mail-adress. But Apple hardware is pricey and mostly a bit backwards (60Hz display, hello!). </p>
+<p>Apple tried to paint itself a privacy respecting company in the last few years. Their iCloud+ services feature some privacy-enhancing services like iCloud Private Relay, hide e-mail-adress. But Apple hardware is pricey and mostly a bit backwards (60Hz display, hello!). The cloud option is funnily the same price than googles offering. The hardware is more expensive and their offering has a higher "golden cage"-feeling than the others.</p>
 <p><i>The Redmond option</i></p>
-<p>Microsofts grip on the desktop computer</p>
+<p>Microsofts grip on the desktop computer is omnipresent, and their Office365 offering with 1TB cloud is mostly cheaper than Google and Apples offerings.</p>
